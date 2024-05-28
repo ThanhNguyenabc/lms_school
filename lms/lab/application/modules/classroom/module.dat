@@ -1,0 +1,53 @@
+
+[module]
+menu-icon = "blackboard"
+en = "Classroom"
+vn = "Lớp học"
+
+[module header title]
+en = "CLASSROOM"
+vn = "LỚP HỌC"
+
+[popup timer title]
+en = "Start Timer"
+vn = "Bắt đầu hẹn giờ"
+
+[popup timer subtitle]
+en = "Select duration"
+vn = "Chọn thời lượng"
+
+[selector assessment caption]
+en = "ASSESSMENT"
+vn = "BÀI ĐÁNH GIÁ"
+
+[selector lessonplan caption]
+en = "PLAN"
+vn = "KẾ HOẠCH"
+
+[selector files caption]
+en = "FILES"
+vn = "TÀI LIỆU"
+
+[selector instructions caption]
+en = "INSTRUCTIONS"
+vn = "HƯỚNG DẪN"
+
+[selector project caption]
+en = "PROJECT"
+vn = "DỰ ÁN"
+
+[selector review caption]
+en = "REVIEW"
+vn = "ÔN TẬP"
+
+[setting popup title]
+en="Settings"
+vn="Cài Đặt"
+
+[animation duration]
+en="Animation duration"
+vn="Thời gian hiệu ứng"
+
+[button save]
+en="Save"
+vn="Lưu"

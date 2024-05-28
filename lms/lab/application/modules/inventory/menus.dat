@@ -1,0 +1,12 @@
+
+[warehouse]
+en = "WAREHOUSE"
+vn = "KHO"
+
+[assignment]
+en = "ASSIGNMENT"
+vn = "PHÂN CÔNG"
+
+[admin]
+en = "ADMIN"
+vn = "QUẢN LÍ"

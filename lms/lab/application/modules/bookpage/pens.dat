@@ -1,0 +1,62 @@
+[mouse]
+en = "Mouse"
+vn = "Chuột"
+type = "square"
+color = ""
+size = 1
+mode = "destination-over"
+icon = "fa fa-mouse-pointer"
+
+[black pen]
+en = "Black Pen"
+vn = "Bút Đen"
+type = "round"
+color = "black"
+size = 8
+mode = "source-over"
+icon = ""
+
+[blue pen]
+en = "Blue Pen"
+vn = "Bút Xanh"
+type = "round"
+color = "blue"
+size = 16
+mode = "source-over"
+icon = ""
+
+[red pen]
+en = "Red Pen"
+vn = "Bút Đỏ"
+type = "round"
+color = "red"
+size = 16
+mode = "source-over"
+icon = ""
+
+[highlighter]
+en = "Highlighter"
+vn = "Làm nổi bật"
+type = "square"
+color = "rgb(255, 255, 50, 0.05)"
+size = 32
+mode = "source-over"
+icon = ""
+
+[eraser]
+en = "Eraser"
+type = "square"
+color = "white"
+size = 32
+mode = "source-over"
+vn = "Tẩy"
+icon = ""
+
+[text]
+en = "Comment"
+vn = "Chú thich"
+type = "round"
+color = "null"
+size = 8
+mode = "source-over"
+icon = "fa-solid fa-comment"

@@ -1,0 +1,36 @@
+
+[search centers]
+en = "Center"
+vn = "Trung tâm"
+
+[search program]
+en = "Program"
+vn = "Chương trình"
+
+[button-search]
+en = "SEARCH"
+vn = "TÌM KIẾM"
+
+[search group]
+en = "Item Group"
+vn = "Nhóm"
+
+[search level]
+en = "Levels"
+vn = "Cấp"
+
+[button search item]
+en = "ITEM LIST"
+vn = "TÌM KIẾM"
+
+[button export]
+en = "EXPORT EXCEL"
+vn = "XUẤT EXCEL"
+
+[button load]
+en = "LOAD NEW DATA"
+vn = "TẢI DỮ LIỆU MỚI"
+
+[button load D365]
+en = "LOAD DATA FROM D365"
+vn = "TẢI DỮ LIỆU TỪ D365"

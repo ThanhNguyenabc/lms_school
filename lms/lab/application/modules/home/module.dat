@@ -1,0 +1,9 @@
+
+[module]
+menu-icon = "home"
+en = "Home"
+vn = "Trang chủ"
+
+[module header title]
+en = "HOME"
+vn = "TRANG CHỦ"

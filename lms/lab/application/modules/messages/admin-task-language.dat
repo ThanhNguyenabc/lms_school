@@ -1,0 +1,372 @@
+[Teacher Comment]
+en = "Please complete comments on student progress in each of the students' profile."
+vn = "Xin vui lòng điền đầy đủ nhận xét về sự tiến bộ của học sinh trong từng hồ sơ của học sinh."
+
+[Complete CSS]
+en = "Please contact the class students/parents to complete the customer service survey."
+vn = "Xin vui lòng liên hệ với học sinh/phụ huynh lớp để hoàn thành bản khảo sát dịch vụ khách hàng."
+
+[ELT Letter new course]
+en = "Please print out and hand out the ELT Letter new course for the students of this class."
+vn = "Xin vui lòng in và phát khóa học ELT Letter new course cho các học viên lớp này."
+
+[ELT Print Certificates]
+en = "Please print out and hand out the certificate to the Teachers and TAs at the end of the course."
+vn = "Các bạn vui lòng in và phát chứng chỉ cho Giáo viên và TA khi kết thúc khóa học."
+
+[Unit Assessment]
+en = "Please enter your class Unit Assessment score in the Grade page from Admin page."
+vn = "Vui lòng nhập điểm Unit Assessment của lớp bạn vào trang Grade từ trang Admin."
+
+[Participation]
+en = "Please enter your class Participation score in the Grade page from Admin page."
+vn = "Vui lòng nhập điểm Participation của lớp bạn vào trang Grade từ trang Admin."
+
+[mmt]
+en = "Please enter your class Mid-Module Test scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Mid-Module của lớp bạn vào trang Grade từ trang Admin."
+
+[eomt]
+en = "Please enter your class End of Module Test scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm End of Module của lớp bạn vào trang Grade từ trang Admin."
+
+[supplementary]
+en = "Please enter your class Supplementary scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Supplementary của lớp bạn vào trang Grade từ trang Admin."
+
+[homework]
+en = "Please check and add the regulated amount of Homework score to the course."
+vn = "Vui lòng kiểm tra và bổ sung số điểm Homework theo quy định."
+
+[Cambridge Starters Test 1]
+en = "Please enter your class Cambridge Starters Test 1 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Starters Test 1 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Movers Test 1]
+en = "Please enter your class Cambridge Movers Test 1 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Movers Test 1 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Movers Test 2]
+en = "Please enter your class Cambridge Movers Test 2 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Movers Test 2 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Movers Test 3]
+en = "Please enter your class Cambridge Movers Test 3 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Movers Test 3 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Movers Test 4]
+en = "Please enter your class Cambridge Movers Test 4 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Movers Test 4 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Movers Test 5]
+en = "Please enter your class Cambridge Movers Test 5 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Movers Test 5 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Flyers Test 1]
+en = "Please enter your class Cambridge Flyers Test 1 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Flyers Test 1 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Flyers Test 2]
+en = "Please enter your class Cambridge Flyers Test 2 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Flyers Test 2 của lớp bạn vào trang Grade từ trang Admin."
+
+[Cambridge Flyers Test 3]
+en = "Please enter your class Cambridge Flyers Test 3 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Flyers Test 3 của lớp bạn vào trang Grade từ trang Admin."
+
+[Key for Schools Test 1]
+en = "Please enter your class Cambridge Key for Schools Test 1 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Key for Schools Test 1 của lớp bạn vào trang Grade từ trang Admin."
+
+[Key for Schools Test 2]
+en = "Please enter your class Cambridge Key for Schools Test 2 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Key for Schools Test 2 của lớp bạn vào trang Grade từ trang Admin."
+
+[Key for Schools Test 3]
+en = "Please enter your class Cambridge Key for Schools Test 3 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Key for Schools Test 3 của lớp bạn vào trang Grade từ trang Admin."
+
+[Key for Schools Test 4]
+en = "Please enter your class Cambridge Key for Schools Test 4 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Cambridge Key for Schools Test 4 của lớp bạn vào trang Grade từ trang Admin."
+
+[Preliminary for Schools Test 1]
+en = "Please enter your class Cambridge Preliminary for Schools Test 1 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Preliminary for Schools Test 1 của lớp bạn vào trang Grade từ trang Admin."
+
+[Preliminary for Schools Test 2]
+en = "Please enter your class Cambridge Preliminary for Schools Test 2 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Preliminary for Schools Test 2 của lớp bạn vào trang Grade từ trang Admin."
+
+[project 1]
+en = "Please assess and comment on your students' Project 1 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 1 của lớp bạn vào trang Project từ trang Admin."
+
+[project 2]
+en = "Please assess and comment on your students' Project 2 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 2 của lớp bạn vào trang Project từ trang Admin."
+
+[project 3]
+en = "Please assess and comment on your students' Project 3 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 3 của lớp bạn vào trang Project từ trang Admin."
+
+[project 4]
+en = "Please assess and comment on your students' Project 4 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 4 của lớp bạn vào trang Project từ trang Admin."
+
+[project 5]
+en = "Please assess and comment on your students' Project 5 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 5 của lớp bạn vào trang Project từ trang Admin."
+
+[project 6]
+en = "Please assess and comment on your students' Project 6 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 6 của lớp bạn vào trang Project từ trang Admin."
+
+[project 7]
+en = "Please assess and comment on your students' Project 7 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 7 của lớp bạn vào trang Project từ trang Admin."
+
+[project 8]
+en = "Please assess and comment on your students' Project 8 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 8 của lớp bạn vào trang Project từ trang Admin."
+
+[project 9]
+en = "Please assess and comment on your students' Project 9 performance in the Project page from Admin page."
+vn = "Vui lòng nhập các điểm và nhận xét Project 9 của lớp bạn vào trang Project từ trang Admin."
+
+[soft skills 1]
+en = "Please enter your class Soft Skills 1 Assessment scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Soft Skills 1 Assessment của lớp bạn vào trang Grade từ trang Admin."
+
+[soft skills 2]
+en = "Please enter your class Soft Skills 2 Assessment scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Soft Skills 2 Assessment của lớp bạn vào trang Grade từ trang Admin."
+
+[Teacher Cambridge One Guide]
+en = "Please remember to help the students register to the Cambridge One site."
+vn = "Vui lòng nhớ hãy giúp học sinh đăng ký vào trang web học tập Cambridge One."
+
+[TA Cambridge One Guide]
+en = "Please remember to a create a class on Cambridge One and help the students register."
+vn = "Vui lòng nhớ tạo một lớp học trên trang web học tập Cambridge One và giúp học sinh đăng ký vào lớp."
+
+[Assign Unit 1 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 1 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 1 trên trang Cambridge One. "
+
+[Assign Unit 1 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 1 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 1 trên trang Cambridge One. "
+
+[Assign Unit 1 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 1 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 1 trên trang Cambridge One. "
+
+[Assign Unit 1 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 1 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 1 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 2 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 2 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 2 trên trang Cambridge One. "
+
+[Assign Unit 2 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 2 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 2 trên trang Cambridge One. "
+
+[Assign Unit 2 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 2 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 2 trên trang Cambridge One. "
+
+[Assign Unit 2 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 2 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 2 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 3 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 3 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 3 trên trang Cambridge One. "
+
+[Assign Unit 3 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 3 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 3 trên trang Cambridge One. "
+
+[Assign Unit 3 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 3 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 3 trên trang Cambridge One. "
+
+[Assign Unit 3 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 3 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 3 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 4 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 4 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 4 trên trang Cambridge One. "
+
+[Assign Unit 4 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 4 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 4 trên trang Cambridge One. "
+
+[Assign Unit 4 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 4 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 4 trên trang Cambridge One. "
+
+[Assign Unit 4 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 4 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 4 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 5 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 5 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 5 trên trang Cambridge One. "
+
+[Assign Unit 5 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 5 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 5 trên trang Cambridge One. "
+
+[Assign Unit 5 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 5 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 5 trên trang Cambridge One. "
+
+[Assign Unit 5 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 5 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 5 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 6 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 6 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 6 trên trang Cambridge One. "
+
+[Assign Unit 6 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 6 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 6 trên trang Cambridge One. "
+
+[Assign Unit 6 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 6 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 6 trên trang Cambridge One. "
+
+[Assign Unit 6 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 6 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 6 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 7 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 7 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 7 trên trang Cambridge One. "
+
+[Assign Unit 7 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 7 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 7 trên trang Cambridge One. "
+
+[Assign Unit 7 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 7 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 7 trên trang Cambridge One. "
+
+[Assign Unit 7 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 7 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 7 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Unit 8 Reading Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 8 Reading Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Đọc Unit 8 trên trang Cambridge One. "
+
+[Assign Unit 8 Writing Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 8 Writing Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Viết Unit 8 trên trang Cambridge One. "
+
+[Assign Unit 8 Listening Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 8 Listening Homework."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nghe Unit 8 trên trang Cambridge One. "
+
+[Assign Unit 8 Speaking Homework]
+en = "Please set the homework in the Review page and assign Cambridge One Unit 8 Speaking Homework. No submission of voice-recorded speaking exercises required."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài luyện tập kỹ năng Nói Unit 8 trên trang Cambridge One. Không nhất thiết phải lưu ghi âm của những bài tập nói."
+
+[Assign Extra Revision Homework]
+en = "Please set the homework in the Review page and assign extra revision activities."
+vn = "Vui lòng thêm bài tập về nhà vào trong trang Review và trao bài tập ôn tập thêm. "
+
+[Assign Writing Assessment 1]
+en = "Please set Writing Assignment #1 from the IELTS Success Writing Assignments document (students submit by lesson 5 for NT to grade)."
+vn = "Vui lòng trao Writing Assignment #1 cho học sinh từ IELTS Success Writing Assignments document (hãy nhắc nhở học viên hoàn thành và nộp cho giáo viên trước bài học thứ 5 chấm điểm)."
+
+[Writing Assessment 1]
+en = "Please return writing assignment #1 to students with written feedback. Input band score grade in the Grade page from Admin page."
+vn = "Vui lòng phát lại cho học sinh Writing Assignment #1 đã được chấm điểm và kèm theo nhận xét. Thêm điểm vào trang Grade từ trang Admin."
+
+[Assign Writing Assessment 2]
+en = "Please set Writing Assignment #2 from the IELTS Success Writing Assignments document (students submit by lesson 11 for NT to grade)."
+vn = "Vui lòng trao Writing Assignment #2 cho học sinh từ IELTS Success Writing Assignments document (hãy nhắc nhở học viên hoàn thành và nộp cho giáo viên trước bài học thứ 11 chấm điểm)."
+
+[Writing Assessment 2]
+en = "Please return writing assignment #2 to students with written feedback. Input band score grade in the Grade page from Admin page."
+vn = "Vui lòng phát lại cho học sinh Writing Assignment #2 đã được chấm điểm và kèm theo nhận xét. Thêm điểm vào trang Grade từ trang Admin."
+
+[Assign Writing Assessment 3]
+en = "Please set Writing Assignment #3 from the IELTS Success Writing Assignments document (students submit by lesson 19 for NT to grade)."
+vn = "Vui lòng trao Writing Assignment #3 cho học sinh từ IELTS Success Writing Assignments document (hãy nhắc nhở học viên hoàn thành và nộp cho giáo viên trước bài học thứ 19 chấm điểm)."
+
+[Writing Assessment 3]
+en = "Please return writing assignment #3 to students with written feedback. Input band score grade in the Grade page from Admin page."
+vn = "Vui lòng phát lại cho học sinh Writing Assignment #3 đã được chấm điểm và kèm theo nhận xét. Thêm điểm vào trang Grade từ trang Admin."
+
+[Assign Writing Assessment 4]
+en = "Please set Writing Assignment #4 from the IELTS Success Writing Assignments document (students submit by lesson 25 for NT to grade)."
+vn = "Vui lòng trao Writing Assignment #4 cho học sinh từ IELTS Success Writing Assignments document (hãy nhắc nhở học viên hoàn thành và nộp cho giáo viên trước bài học thứ 25 chấm điểm)."
+
+[Writing Assessment 4]
+en = "Please return writing assignment #4 to students with written feedback. Input band score grade in the Grade page from Admin page."
+vn = "Vui lòng phát lại cho học sinh Writing Assignment #4 đã được chấm điểm và kèm theo nhận xét. Thêm điểm vào trang Grade từ trang Admin."
+
+[mmt 1]
+en = "Please Vietnamese Teacher grade Reading and Listening test score for the Mid Module Test and input the scores to the Grade page from Admin page."
+vn = "Giáo viên Việt Nam xin hãy chấm điểm bài kỹ năng Đọc và Nghe của bài thi Giữa khóa và thêm điểm vào trang Grade từ trang Admin."
+
+[mmt 2]
+en = "Please Native Teacher grade Speaking and Writing test score for the Mid Module Test and input the scores to the Grade page from Admin page."
+vn = "Giáo viên Bản xứ xin hãy chấm điểm bài kỹ năng Nói và Viết của bài thi Giữa khóa và thêm điểm vào trang Grade từ trang Admin."
+
+[eomt 1]
+en = "Please Native Teacher grade Speaking and Writing test score for the End of Module Test and input the scores to the Grade page from Admin page."
+vn = "Giáo viên Bản xứ xin hãy chấm điểm bài kỹ năng Nói và Viết của bài thi Cuối khóa và thêm điểm vào trang Grade từ trang Admin."
+
+[eomt 2]
+en = "Please Vietnamese Teacher grade Reading and Listening test score for the End of Module Test and input the scores to the Grade page from Admin page."
+vn = "Giáo viên Việt Nam xin hãy chấm điểm bài kỹ năng Đọc và Nghe của bài thi Cuối khóa và thêm điểm vào trang Grade từ trang Admin."
+
+[Add Diagnostic Scores]
+en = "Please enter student’s Diagnostic Test score into the Grade page from Admin Page (if the student has re-enrolled from a previous course, please enter the student’s score from PRACTICE TEST 4 of the previous course as the student’s Diagnostic Test Score. DO NOT use their Final SAT Score)."
+vn = "Vui lòng nhập điểm Diagnostic Test vào trang Grade từ trang Admin (nếu học viên đã học khóa SAT trước, xin hãy nhập điểm Practice Test 4 từ khóa trước vào cột điểm Diagnostic Test. Vui lòng đừng nhập điểm tổng cuối khóa trước vào cột điểm Diagnostic Test của khóa này)."
+
+[Practice Test 1]
+en = "Please enter your class Practice Test 1 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Practice Test 1 của lớp bạn vào trang Grade từ trang Admin."
+
+[Practice Test 2]
+en = "Please enter your class Practice Test 2 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Practice Test 2 của lớp bạn vào trang Grade từ trang Admin."
+
+[Practice Test 3]
+en = "Please enter your class Practice Test 3 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Practice Test 3 của lớp bạn vào trang Grade từ trang Admin."
+
+[Practice Test 4]
+en = "Please enter your class Practice Test 4 scores in the Grade page from Admin page."
+vn = "Vui lòng nhập các điểm Practice Test 4 của lớp bạn vào trang Grade từ trang Admin."
+
+[SAT Comment 1]
+en = "Please complete comments on students' result for Practice Test 1 in each of the students profile."
+vn = "Xin vui lòng điền đầy đủ nhận xét về kết quả Practice Test 1 của học sinh trong từng hồ sơ của học sinh."
+
+[SAT Comment 2]
+en = "Please complete comments on students' result for Practice Test 2 in each of the students profile."
+vn = "Xin vui lòng điền đầy đủ nhận xét về kết quả Practice Test 2 của học sinh trong từng hồ sơ của học sinh."
+
+[SAT Comment 3]
+en = "Please complete comments on students' result for Practice Test 3 in each of the students profile."
+vn = "Xin vui lòng điền đầy đủ nhận xét về kết quả Practice Test 3 của học sinh trong từng hồ sơ của học sinh."
+
+[SAT Comment 4]
+en = "Please complete comments on students' result for Practice Test 4 in each of the students profile."
+vn = "Xin vui lòng điền đầy đủ nhận xét về kết quả Practice Test 4 của học sinh trong từng hồ sơ của học sinh."
+
+[SAT Homework]
+en = "Please check number of homework activities completed and apply a raw score out of 33 (e.g. If the student completed 19 out of 33 homework activities during the 1100+ course, the student will be given a score of 19)"
+vn = "Vui lòng kiểm tra số lượng bài tập về nhà học viên đã hoàn thành và thêm số lượng bài tập đã làm ấy vào cột điểm theo thông số 33 (ví dụ: nếu học viên đã hoàn thành 19 trên 33 bài tập đã giao trong khóa học 1100+, điểm số lượng bài tập cần phải nhập là 19.)."
+

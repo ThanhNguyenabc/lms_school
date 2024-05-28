@@ -1,0 +1,43 @@
+<div data-uid="search-container" class="container-column border-rounded padding-medium gap-medium" style="
+        width: 300px;
+        height: 100%;
+        justify-content: space-between;
+        background-color: var(--color-light);
+        overflow: hidden;
+      ">
+    <!-- SEARCH SECTION -->
+    <div class="container-column gap-medium" style="width: 100%; height: 100%; overflow: hidden">
+        <div class="container-column gap-small" style="width: 100%">
+            <div class="text-title-medium">%search centers%</div>
+            <element data-uid="search-centers" style="width: 100%" control-dropdown-plain />
+        </div>
+
+        <div class="container-column gap-small" style="width: 100%">
+            <div class="text-title-medium">%search group%</div>
+            <element data-uid="search-groups" style="width: 100%" control-dropdown-plain />
+        </div>
+
+
+        <div class="container-row gap-medium">
+            <div class="container-column gap-small">
+                <div class="text-title-medium">%search program%</div>
+                <element data-uid="search-program" style="width: 100% ; flex: 1;" control-dropdown-plain />
+            </div>
+            <div class="container-column gap-small">
+                <div class="text-title-medium">%search level%</div>
+                <element data-uid="search-levels" style="width: 100px" control-dropdown-plain />
+            </div>
+        </div>
+
+        <div data-uid="date-container" class="container-column gap-medium" style="width:100% ; display: none;">
+            <select data-uid="search-datemode" class="text-title-medium structure-seamless" style="width:100%">
+            </select>
+            <element data-uid="search-datefrom" style="width:100%" control-date-plain />
+        </div>
+    </div>
+
+
+    <div data-uid="action-container" class="container-column gap-medium" style="width: 100%;">
+        <element data-uid="btnSearch" {text:$btn-search$} button-small-stretch />
+    </div>
+</div>

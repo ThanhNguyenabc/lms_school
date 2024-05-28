@@ -1,0 +1,218 @@
+
+[module]
+menu-icon = "home"
+en = "Inventory"
+vn = "Kho"
+
+[module header title]
+en = "INVENTORY"
+vn = "KHO"
+
+[button-assign]
+en = "ASSIGN"
+vn = "CHỈ ĐỊNH"
+
+[button-order]
+en = "ORDER"
+vn = ""
+
+[button-request]
+en = "REQUEST"
+vn = ""
+
+[button-borrow]
+en = "BORROW"
+vn = ""
+
+[button-approve]
+en = "APPROVE ITEM REQUESTS"
+vn = ""
+
+[button-accept]
+en = "ACCEPT"
+vn = "CHẤP NHẬN"
+
+[button-reject]
+en = "REJECT"
+vn = "TỪ CHỐI"
+
+[assign-popup-title]
+en = "Assign items to students"
+vn = ""
+
+[transfer-popup-title]
+en = "Request Item From Other Center"
+vn = ""
+
+[approve-popup-title]
+en = "Request items"
+vn = ""
+
+[search any]
+en = "Any"
+vn = "Bất kì"
+
+[button search]
+en = "ITEM LIST"
+vn = "TÌM KIẾM"
+
+[button request]
+en = "REQUESTS"
+vn = "YÊU CẦU"
+
+[button history]
+en = "HISTORY"
+vn = "LỊCH SỬ"
+
+[button request transfer]
+en = "REQUEST TRANSFER"
+vn = "YÊU CẦU CHUYỂN"
+
+[button save]
+en = "SAVE"
+vn = "LƯU"
+
+[button take back]
+en = "TAKE BACK"
+vn = "LẤY LẠI"
+
+[button-cancel]
+en = "CANCEL"
+vn = "HỦY"
+
+[table no]
+en = "No"
+vn = "TT"
+
+[table item code]
+en = "Item Code"
+vn = "Mã vật phẩm"
+
+[table item name]
+en = "Item Name"
+vn = "Tên vật phẩm"
+
+[table in store]
+en = "In Store"
+vn = "Trong Kho"
+
+[table in order]
+en = "In Order"
+vn = "Đặt hàng"
+
+[change group]
+en = "Change to Item Group"
+vn = "Thay đổi Nhóm vật phẩm"
+
+[change program]
+en = "Change to Program"
+vn = "Thay đổi Chương trình"
+
+[update information]
+en = "Update information"
+vn = "Thay đổi thông tin"
+
+[update confirm text]
+en = "Are you sure want to update?"
+vn = "Bạn có chắc chắn thay đổi?"
+
+[table student]
+en = "Student"
+vn = "Học Sinh"
+
+[popup confirm]
+en = "$text$ CONFIRM"
+vn = "XÁC NHẬN $text$"
+
+[popup confirm text]
+en = "Do you want to continue $text$ activity?"
+vn = "Bạn có muốn tiếp tục hành động $text$?"
+
+[button continue]
+en = "CONTINUE"
+vn = "TIẾP TỤC"
+
+[table need]
+en = "Need"
+vn = "Cần"
+
+[table no item]
+en = "No items"
+vn = "Không có dữ liệu"
+
+[table request]
+en = "Request"
+vn = "Yêu cầu"
+
+[table status]
+en = "Status"
+vn = "Trạng thái"
+
+[table take back]
+en = "Take back"
+vn = "Lấy lại"
+
+[table assign]
+en = "Assign item"
+vn = "Chỉ định vật phẩm"
+
+[table student]
+en = "Student"
+vn = "Học sinh"
+
+[alert info]
+en = "Info"
+vn = "Thông tin"
+
+[alert message please]
+en = "Please select items to $text$"
+vn = "Làm ơn chọn vật phẩm để $text$"
+
+[popup take back]
+en = "TAKE BACK"
+vn = "LẤY LẠI"
+
+[popup assign]
+en = "ASSIGN ITEM"
+vn = "CHỈ ĐỊNH VẬT PHẨM"
+
+[alert success]
+en = "Successfuly"
+vn = "Thành Công"
+
+[alert error]
+en = "Error"
+vn = "Lỗi"
+
+[alert not enough quantity]
+en = "There is not enough quantity"
+vn = "Không đủ số lượng vật phẩm"
+
+[alert search center]
+en = "Please search center for requesting"
+vn = "Làm ơn tìm kiếm trung tâm để yêu cầu"
+
+[popup confirm request]
+en = "REQUEST ITEM"
+vn = "YÊU CẦU VẬT PHẨM"
+
+[popup confirm text request]
+en = "Are you sure to make a request?"
+vn = "Bận có chắc tạo yêu cầu?"
+
+[alert request]
+en = "Request item"
+vn = "Yêu cầu vật phẩm"
+
+[button new program]
+en = "ASSIGN NEW PROGRAM"
+vn = "CHỈ ĐỊNH CHƯƠNG TRÌNH MỚI"
+
+[programs levels]
+en = "Programs_Levels"
+vn = "Chương trình _ Cấp"
+
+
+[alert warning assign student]
+en = "We have some errors with these student ids : "
+vn = ""

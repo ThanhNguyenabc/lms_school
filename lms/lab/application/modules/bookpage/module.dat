@@ -1,0 +1,33 @@
+[module]
+menu-icon = ""
+en        = ""
+vn        = ""
+
+[input-information]
+en= "Input Information"
+vn ="Thông tin đầu vào"
+
+[font-size]
+en = "Font-size"
+vn = "Cỡ chữ"
+
+[color]
+en = "Text Color"
+vn = "Màu chữ"
+
+[width]
+en = "Width"
+vn = "Rộng"
+
+[height]
+en = "Height"
+vn = "Cao"
+
+[save]
+en = "Save"
+vn = "Lưu"
+
+[delete]
+en = "Delete"
+vn = "Xóa"
+

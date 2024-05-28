@@ -1,0 +1,16 @@
+<div data-uid="popup" class="container-column border-rounded shadow-soft-bottom padding-medium gap-medium" style="width:550px; height:500px; user-select:none; overflow:hidden;
+     align-items:center; background-color:var(--color-white)">
+
+    <div class="text-cubital-medium" style="color:var(--color-black)">
+        $title$
+
+    </div>
+    <div class="container-row gap-medium" style="width: 100%">
+        <element data-uid="courses" style="width: 400px;" control-dropdown-plain />
+        <element data-uid="edt-name" style="flex: 1;" control-edit-plain />
+        <!-- <element data-uid="edt-code" style="flex: 1" control-edit-plain /> -->
+    </div>
+    <div data-uid="student-list" class="container-column" style="width: 100%; flex: 1; overflow-y: scroll;">
+    </div>
+    <element data-uid="btn-assign" {text:%button-assign%} button-small-plain />
+</div>

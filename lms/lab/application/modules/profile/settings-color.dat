@@ -1,0 +1,27 @@
+[default]
+en = "Default"
+vn = "Mặc định"
+
+[theme1]
+en = "Theme 1"
+vn = "Chủ đề 1"
+
+[theme2]
+en = "Theme 2"
+vn = "Chủ đề 2"
+
+[theme3]
+en = "Theme 3"
+vn = "Chủ đề 3"
+
+[theme4]
+en = "Theme 4"
+vn = "Chủ đề 4"
+
+[theme5]
+en = "Theme 5"
+vn = "Chủ đề 5"
+
+[theme6]
+en = "Theme 6"
+vn = "Chủ đề 6"

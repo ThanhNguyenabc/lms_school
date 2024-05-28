@@ -1,0 +1,61 @@
+
+[module]
+menu-icon = "timelines"
+en = "COURSES"
+vn = "KHÓA HỌC"
+
+[module header title]
+en = "COURSES"
+vn = "KHÓA HỌC"
+
+[button course search]
+en = "SEARCH"
+vn = "TÌM KIẾM"
+
+[button course create]
+en = "CREATE"
+vn = "TẠO"
+
+[search any]
+en = "Any"
+vn = "Bất kỳ"
+
+[search centers]
+en = "Center"
+vn = "Trung tâm"
+
+[search program]
+en = "Program"
+vn = "Chương trình"
+
+[search level]
+en = "Level"
+vn = "Cấp độ"
+
+[search status]
+en = "Status"
+vn = "Trạng thái"
+
+[search datefrom]
+en = "Starting After"
+vn = "Bắt đầu sau"
+
+[search days]
+en = "Days"
+vn = "Ngày"
+
+[search timefrom]
+en = "From"
+vn = "Từ"
+
+[search timeto]
+en = "To"
+vn = "Đến"
+
+[search name]
+en = "Course Name"
+vn = "Tên khóa học"
+
+[input course name]
+en = "Input course name"
+vn = "Nhập tên khóa học"

@@ -1,0 +1,83 @@
+[collaboration]
+weight  = "20"
+assessment-score = "5"
+
+[creativity]
+weight  = "20"
+assessment-score = "5"
+
+[thinking]
+weight  = "20"
+assessment-score = "5"
+
+[tasks]
+weight  = "20"
+assessment-score = "5"
+
+[digital]
+weight  = "20"
+assessment-score = "5"
+
+[J-Collaboration]
+weight  = "8"
+assessment-score = "8"
+
+[J-Creativity]
+weight  = "8"
+assessment-score = "8"
+
+[J-Critical Thinking]
+weight  = "8"
+assessment-score = "8"
+
+[J-Digital Literacy]
+weight  = "8"
+assessment-score = "8"
+
+[J-Language]
+weight  = "50"
+assessment-score = "50"
+
+[J-Self Development]
+weight  = "8"
+assessment-score = "8"
+
+[J-Task Achievement]
+weight  = "10"
+assessment-score = "10"
+
+[S-Collaboration]
+weight  = "5"
+assessment-score = "5"
+
+[S-Creativity]
+weight  = "5"
+assessment-score = "5"
+
+[S-Critical Thinking]
+weight  = "5"
+assessment-score = "5"
+
+[S-Digital Literacy]
+weight  = "5"
+assessment-score = "5"
+
+[S-Grammar & Vocabulary]
+weight  = "20"
+assessment-score = "20"
+
+[S-Pronunciation]
+weight  = "20"
+assessment-score = "20"
+
+[S-Self Development]
+weight  = "5"
+assessment-score = "5"
+
+[S-Speaking]
+weight  = "30"
+assessment-score = "30"
+
+[S-Task Achievement]
+weight  = "5"
+assessment-score = "5"

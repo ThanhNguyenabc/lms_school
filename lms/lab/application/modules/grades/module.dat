@@ -1,0 +1,175 @@
+[project]
+en = "Project"
+vn = "Dự án"
+
+[mmt]
+en = "Mid-Module Test"
+vn = "Kiểm tra giữa khóa"
+
+[eomt]
+en = "End Of Module Test"
+vn = "Kiểm tra cuối khóa"
+
+[supplementary]
+en = "Supplementary Assessment"
+vn = "Điểm Bổ Sung"
+
+[listening]
+en = "Listening Test"
+vn = "Bài Thi Nghe"
+
+[speaking]
+en = "Speaking Test"
+vn = "Bài Thi Nói"
+
+[reading]
+en = "Reading Test"
+vn = "Bài Thi Đọc"
+
+[writing]
+en = "Writing Test"
+vn = "Bài Thi Viết"
+
+[grammar&vocabulary]
+en = "Grammar & Vocabulary Test"
+vn = "Bài Thi Ngữ Pháp & Từ Vựng"
+
+[homework]
+en = "Homework"
+vn = "Bài Tập"
+
+[unit assessment]
+en = "Unit Assessment"
+vn = "Kiểm Tra Unit"
+
+[unit assessment score]
+en = "Unit Assessment Score"
+vn = "Điểm Kiểm Tra Unit"
+
+[unit assessment test]
+en = "Unit Assessment Test"
+vn = "Bài Kiểm Tra Unit"
+
+[participation]
+en = "Participation"
+vn = "Điểm Tham Gia"
+
+[supplementary assessment]
+en = "Supplementary Assessment"
+vn = "Đánh Giá Bổ Sung"
+
+[speaking ability]
+en = "Speaking Ability"
+vn = "Kỹ Năng Nói"
+
+[cambridge starters test]
+en = "Cambridge Starters Test"
+vn = "Bài thi Cambridge Starters"
+
+[reading & writing]
+en = "Reading & Writing"
+vn = "Đọc Hiểu & Viết"
+
+[cambridge flyers test]
+en = "Cambridge Flyers Test"
+vn = "Bài thi Cambridge Flyers"
+
+[cambridge key test]
+en = "Cambridge Key Test"
+vn = "Bài thi Cambridge Key"
+
+[cambridge preliminary for schools test]
+en = "Cambridge Preliminary for Schools Test"
+vn = "Bài thi Cambridge Preliminary"
+
+[course total]
+en = "Course Total"
+vn = "Điểm Tổng Khóa"
+
+[student name]
+en = "Student Name"
+vn = "Tên Học Sinh"
+
+[diagnostic test]
+en = "Diagnostic Test"
+vn = "Kiểm tra đầu vào"
+
+[maths]
+en = "Maths"
+vn = "Toán"
+
+[verbal (english)]
+en = "Verbal (english)"
+vn = "Nói tiếng anh"
+
+[practice test]
+en = "Practice Test"
+vn = "Kiểm tra Thực hành"
+
+[diagnostic test total]
+en = "Diagnostic Test Total"
+vn = "Tổng Kiểm tra đầu vào"
+
+[practice test 1 total]
+en = "Practice Test 1 Total"
+vn = "Tổng kiểm tra thực hành 1"
+
+[practice test 2 total]
+en = "Practice Test 2 Total"
+vn = "Tổng kiểm tra thực hành 2"
+
+[practice test 3 total]
+en = "Practice Test 3 Total"
+vn = "Tổng kiểm tra thực hành 3"
+
+[practice test 4 total]
+en = "Practice Test 4 Total"
+vn = "Tổng kiểm tra thực hành 4"
+
+[number of hw completed]
+en = "Number of hw Completed"
+vn = "Số lượng bài tập về nhà đã hoàn thành"
+
+[score improvement]
+en = "Score Improvement"
+vn = "Điểm cải thiện"
+
+[maths improvement]
+en = "Maths Improvement"
+vn = "Cải thiện toán"
+
+[verbal (english) improvement]
+en = "Verbal (english) Improvement"
+vn = "Cải thiện nói tiếng anh"
+
+[score improvement total]
+en = "Score Improvement Total"
+vn = "Tổng điểm cải thiện"
+
+[best scores]
+en = "Best Scores"
+vn = "Điểm cao nhất"
+
+[best maths]
+en = "Best Maths"
+vn = "Toán cao nhất"
+
+[best verbal (english)]
+en = "Best Verbal (english)"
+vn = "Nói tiếng anh cao nhất"
+
+[final sat score]
+en = "Final SAT Score"
+vn = "Điêmt SAT cuối cùng"
+
+[writing assessment]
+en = "Writing Assessment"
+vn = "Đánh giá viết"
+
+[mmt total]
+en = "Mid-Module Test Total"
+vn = "Tổng điểm kiểm tra giữa khóa"
+
+[eomt total]
+en = "End Of Module Test Total"
+vn = "Tổng điểm kiểm tra cuối khóa"
